@@ -12,25 +12,26 @@ I believe that great design solves real problems, and I thrive at the intersecti
 - 🧠 UI/UX Designer + Frontend Developer  
 - 🎓 BSc (Hons) in IT — General Sir John Kotelawala Defence University  
 - 👩‍💻 Currently building: **Smart Waste Collection System (IoT + AI + Web + Mobile)**  
-- ✍ I write on UX, research, and technology on **Medium**  
+- ✍ I write on UX, research, and technology on **[Medium](https://medium.com/@kasunikaranasinghe)**  
 - 🌱 Constantly learning: **UX Research, Figma, AI/ML, React, Flutter**
 
 ---
 
 ## 📫 Connect with Me  
-<p align="left">
-• Email: <b>kasunikaranasinghe@gmail.com</b>  
-• LinkedIn: www.linkedin.com/in/kebuni-ranasinghe  
-• Behance: https://www.behance.net/kasunikranasin  
-• Medium: https://medium.com/@kasunikaranasinghe  
-• GitHub: <b>Kebuni22</b>
+
+<p align="center">
+  <a href="mailto:kasunikaranasinghe@gmail.com" target="_blank">✉️ Email</a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/kebuni-ranasinghe" target="_blank">🔗 LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://www.behance.net/kasunikranasin" target="_blank">🎨 Behance</a> &nbsp; | &nbsp;
+  <a href="https://medium.com/@kasunikaranasinghe" target="_blank">✍ Medium</a> &nbsp; | &nbsp;
+  <a href="https://github.com/Kebuni22" target="_blank">🐱 GitHub</a>
 </p>
 
 ---
 
 ## 🛠 Skills & Tools  
 
-### 🎨 **UI/UX Design**
+### 🎨 UI/UX Design
 - Figma (Wireframing, Prototyping, UI Design)  
 - User Research  
 - Interaction Design  
@@ -38,16 +39,16 @@ I believe that great design solves real problems, and I thrive at the intersecti
 - Adobe Photoshop | Illustrator | InDesign | Lightroom  
 - Canva  
 
-### 💻 **Front-End Development**
+### 💻 Front-End Development
 - HTML | CSS | JavaScript  
 - React.js | Flutter  
 - Tailwind CSS | Bootstrap  
 
-### ⚙️ **Back-End & Databases**
+### ⚙️ Back-End & Databases
 - Node.js | PHP  
 - Firebase | MySQL | MongoDB  
 
-### 🔧 **Other Tools**
+### 🔧 Other Tools
 - Adobe Premiere Pro (Video Editing)  
 - Git & GitHub  
 - Google Docs, MS Office  
@@ -56,33 +57,26 @@ I believe that great design solves real problems, and I thrive at the intersecti
 
 ## 📂 Featured Projects  
 
-### 🟦 **Smart Waste Collection System – Final Year Project**
+### 🟦 Smart Waste Collection System – Final Year Project
 Real-time truck tracking, smart bin monitoring, route optimization, and community-sharing experience.  
 **Tech:** React | Flutter | Node.js | Firebase | IoT  
-🔗 Repo: https://github.com/Kebuni22/Clearo_Final_Year_Project_Smart_Waste_Collection_System
+🔗 Repo: [GitHub](https://github.com/Kebuni22/Clearo_Final_Year_Project_Smart_Waste_Collection_System)
 
----
-
-### 🟪 **PickMe App Re-Design – UI/UX Case Study**
+### 🟪 PickMe App Re-Design – UI/UX Case Study
 Focused on improving navigation, accessibility, and one-handed usability.  
-🔗 Case Study:  
-https://www.behance.net/gallery/223957729/Redesigning-the-Pick-Me-App-UIUX-Case-Study
+🔗 Case Study: [Behance](https://www.behance.net/gallery/223957729/Redesigning-the-Pick-Me-App-UIUX-Case-Study)
 
----
-
-### 🟩 **Ceylon Voyage — Visual Computing Project**
+### 🟩 Ceylon Voyage — Visual Computing Project
 Brochures, banners, magazine designs, and promotional content showcasing Sri Lanka.  
-🔗 Project: https://www.behance.net/gallery/221663651/The-ceylon-Voyage
+🔗 Project: [Behance](https://www.behance.net/gallery/221663651/The-ceylon-Voyage)
 
----
-
-### 🟧 **Mobile Repair Shop Automated System**
+### 🟧 Mobile Repair Shop Automated System
 Repair order management, inventory handling, and automated workflow.  
-🔗 Repo: https://github.com/Eharagithub/Mobile-Repair-Shop-Automated-System
+🔗 Repo: [GitHub](https://github.com/Eharagithub/Mobile-Repair-Shop-Automated-System)
 
 ---
 
-## 🏆 Certifications (Selected)
+## 🏆 Certifications
 - Google UX Design Certificate  
 - Figma for UX Design (LinkedIn Learning)  
 - UX Research & Prototyping  
@@ -90,15 +84,6 @@ Repair order management, inventory handling, and automated workflow.
 - Postman Student Expert  
 - Cisco: IoT, Cybersecurity, CCNA Basics  
 - HP Life: Design Thinking | AI for Beginners  
-
----
-
-## 📊 GitHub Stats (Minimal Theme)
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kebuni22&show_icons=true&theme=default&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kebuni22&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
 
 ---
 
